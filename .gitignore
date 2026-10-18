@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+/build/
+/backups/
+*.app/
+*.asar
+*.zip
+*.dmg
+*.log
+.env
+.env.*
